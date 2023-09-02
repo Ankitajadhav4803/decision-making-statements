@@ -1,6 +1,6 @@
 /* c program to accept an integer and check if it is even or odd */
 #include<stdio.h>
-int main()
+void main()
 {
 	int num;
 	printf("enter any number=");
