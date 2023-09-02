@@ -1,6 +1,6 @@
 /* c program to accept an year and check if it is leap year or not */
 #include<stdio.h>
-int main()
+void main()
 {
 	int y;
 	printf("enter any year=");
