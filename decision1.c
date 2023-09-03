@@ -1,4 +1,4 @@
-/* c program to accept an year and check if it is leap year or not */
+/* c program to accept any year as input through the keyboard and check whether the year is a leap year or not */
 #include<stdio.h>
 void main()
 {
@@ -6,7 +6,7 @@ void main()
 	printf("enter any year=");
 	scanf("%d",&y);
 	if(y%4==0)
-	printf("\n given year is leap year.");
+	printf("\n given year is a leap year.");
 	else
-	printf("\n given year is not leap year.");
+	printf("\n given year is not a leap year.");
 }	
