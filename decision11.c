@@ -19,7 +19,7 @@ void main()
 	{
 	printf("the point lies in the third quadrant.");
 	}
-	if((x>0)&&(y<0))
+	else if((x>0)&&(y<0))
 	{
 	printf("the point lies in the fourth quadrant.");
 	}
