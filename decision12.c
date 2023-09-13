@@ -10,5 +10,5 @@ void main()
 	else if(n<0)
 	printf("given integer is negative.");
 	else
-	printf("given integer is zero");
+	printf("given integer is zero.");
 }
