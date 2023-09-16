@@ -5,7 +5,7 @@ void main()
 {
 	int a,b;
 	char ch;
-	printf("enter two integers=");
+	printf("enter any two integers=");
 	scanf("%d%d",&a,&b);
 	printf("\n enter choice=+,-,*,/ \n");
 	ch=getch();
