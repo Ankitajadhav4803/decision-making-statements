@@ -3,7 +3,7 @@
 void main()
 {
 	int n;
-	printf("enter any digit=");
+	printf("enter any single digit=");
 	scanf("%d",&n);
 	switch(n)
 	{
