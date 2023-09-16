@@ -3,7 +3,7 @@
 void main()
 {
 	int d;
-	printf("enter day in single digit=");
+	printf("enter any day in single digit=");
 	scanf("%d",&d);
 	switch(d)
 	{
