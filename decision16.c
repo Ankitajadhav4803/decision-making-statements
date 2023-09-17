@@ -3,7 +3,7 @@
 void main()
 {
 	int m;
-	printf("enter month in number=");
+	printf("enter any month in number=");
 	scanf("%d",&m);
 	switch(m)
 	{
